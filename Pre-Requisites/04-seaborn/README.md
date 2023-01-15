@@ -1,0 +1,1 @@
+This directory explores the Seaborn library for Data Visualization and contains the following:
